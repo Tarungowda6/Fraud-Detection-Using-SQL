@@ -1,2 +1,9 @@
 # Fraud-Detection-Using-SQL
 This project focuses on detecting fraudulent activities using SQL. By analyzing transactional data through rule-based queries, suspicious patterns such as unusual amounts or frequent transactions are identified. SQL provides a simple, efficient, and scalable method for initial fraud detection.
+
+This project focuses on the application of Structured Query Language (SQL) in detecting fraudulent activities within structured datasets, particularly financial or transactional records. As fraud becomes increasingly prevalent in industries such as banking, e-commerce, and digital services, there is a growing need for efficient, accurate, and accessible methods to monitor and flag suspicious behavior. SQL, being one of the most widely used languages for database management and analysis, offers a powerful toolset for identifying anomalies and enforcing rule-based fraud detection strategies.
+
+By leveraging SQL queries, this project demonstrates how common fraud indicators—such as unusually high transaction amounts, rapid repeated transactions, geographic mismatches, and duplicate records—can be detected using logical conditions, filters, joins, and aggregations. SQL allows analysts to create custom rules based on business logic and historical patterns, making it especially useful in environments where fraud behavior is somewhat predictable and consistent.
+
+While SQL may not match the predictive capabilities of advanced machine learning algorithms, it serves as a reliable, transparent, and cost-effective solution for real-time fraud detection and alerting. This project illustrates how SQL can form the backbone of a fraud detection framework, providing a foundation for both standalone detection and integration with more advanced analytics tools. Through this approach, organizations can better secure their data, respond swiftly to irregularities, and reduce financial and reputational risks associated with fraud.
+
